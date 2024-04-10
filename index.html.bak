@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html  >
+<head>
+  <!-- Site made with Mobirise Website Builder v5.9.17, https://mobirise.com -->
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Mobirise v5.9.17, mobirise.com">
+  <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
+  <link rel="shortcut icon" href="assets/images/pt-128x99.png" type="image/x-icon">
+  <meta name="description" content="">
+  
+  
+  <title>Inicio</title>
+  <link rel="stylesheet" href="assets/web/assets/mobirise-icons2/mobirise2.css">
+  <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
+  <link rel="stylesheet" href="assets/bootstrap/css/bootstrap-grid.min.css">
+  <link rel="stylesheet" href="assets/bootstrap/css/bootstrap-reboot.min.css">
+  <link rel="stylesheet" href="assets/parallax/jarallax.css">
+  <link rel="stylesheet" href="assets/dropdown/css/style.css">
+  <link rel="stylesheet" href="assets/socicon/css/styles.css">
+  <link rel="stylesheet" href="assets/theme/css/style.css">
+  <link href="assets/fonts/style.css" rel="stylesheet">
+  <link rel="preload" href="https://fonts.googleapis.com/css?family=Heebo:100,200,300,400,500,600,700,800,900&display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
+  <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Heebo:100,200,300,400,500,600,700,800,900&display=swap"></noscript>
+  <link rel="preload" href="https://fonts.googleapis.com/css?family=Oswald:200,300,400,500,600,700&display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
+  <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Oswald:200,300,400,500,600,700&display=swap"></noscript>
+  <link rel="preload" as="style" href="assets/mobirise/css/mbr-additional.css?v=90fsPC"><link rel="stylesheet" href="assets/mobirise/css/mbr-additional.css?v=90fsPC" type="text/css">
+
+  
+  
+  
+</head>
+<body>
+  
+  <section data-bs-version="5.1" class="menu menu2 cid-t4I5vaRVSx" once="menu" id="menu2-q">
+    
+    <nav class="navbar navbar-dropdown navbar-fixed-top navbar-expand-lg">
+        <div class="container">
+            <div class="navbar-brand">
+                <span class="navbar-logo">
+                    <a href="index.html">
+                        <img src="assets/images/pt-126x98.png" alt="" style="height: 3rem;">
+                    </a>
+                </span>
+                
+            </div>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbarSupportedContent" data-bs-target="#navbarSupportedContent" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+                <div class="hamburger">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </div>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav nav-dropdown nav-right" data-app-modern-menu="true"><li class="nav-item"><a class="nav-link link text-white text-primary display-4" href="index.html">INICIO</a></li><li class="nav-item"><a class="nav-link link text-white show text-primary display-4" href="streamers.html">STREAMERS</a></li><li class="nav-item"><a class="nav-link link text-white text-primary display-4" href="sabermais.html" aria-expanded="false">SABER MAIS</a></li></ul>
+                <div class="icons-menu">
+                    <a class="iconfont-wrapper" href="https://www.tiktok.com/@ptcomunidade" target="_blank">
+                        <span class="p-2 mbr-iconfont socicon-tiktok socicon" style="color: rgb(255, 255, 255); fill: rgb(255, 255, 255); font-size: 17px;"></span>
+                    </a>
+                    <a class="iconfont-wrapper" href="https://www.instagram.com/pt.comunidade/" target="_blank">
+                        <span class="p-2 mbr-iconfont socicon-instagram socicon" style="color: rgb(255, 255, 255); fill: rgb(255, 255, 255); font-size: 17px;"></span>
+                    </a>
+                    
+                    
+                </div>
+                
+            </div>
+        </div>
+    </nav>
+</section>
+
+<section data-bs-version="5.1" class="header2 cid-t4HbxuHICa mbr-fullscreen mbr-parallax-background" id="header2-n">
+
+    
+
+    <div class="mbr-overlay" style="opacity: 0.8; background-color: rgb(53, 53, 53);"></div>
+
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-12 col-lg-12">
+                
+                <h2 class="mbr-section-subtitle mbr-fonts-style mb-3 display-2">PT | COMUNIDADE<br></h2>
+                <p class="mbr-text mbr-fonts-style display-7">Informações exclusivas, Novidades, etc...<br></p>
+                <div class="mbr-section-btn mt-3"><a class="btn btn-warning display-4" href="https://discord.gg/sDXTgYmsJj" target="_blank">Entrar no Servidor</a>
+                    <a class="btn btn-success-outline display-4" href="sabermais.html">Saber Mais</a></div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section data-bs-version="5.1" class="content4 cid-t4O3hhTEZC" id="content4-s">
+    
+    
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="title col-md-12 col-lg-8">
+                <h3 class="mbr-section-title mbr-fonts-style align-center mb-4 display-1">
+                    <strong>NOVIDADES</strong>
+                </h3>
+                
+                
+            </div>
+        </div>
+    </div>
+</section>
+
+<section data-bs-version="5.1" class="slider2 cid-t4O25wFNz6" id="slider2-r">
+    
+
+    
+    <div class="container-fluid">
+        <div class="row justify-content-center">
+            <div class="col-12 col-md-8 col-lg-12">
+                <div class="carousel slide" id="u9v4zTV9RD" data-ride="carousel" data-bs-ride="carousel" data-interval="3000" data-bs-interval="3000">
+                    
+                    <ol class="carousel-indicators">
+                        <li data-slide-to="0" data-bs-slide-to="0" class="active" data-target="#u9v4zTV9RD" data-bs-target="#u9v4zTV9RD"></li><li data-slide-to="1" data-bs-slide-to="1" class="" data-target="#u9v4zTV9RD" data-bs-target="#u9v4zTV9RD"></li>
+                        
+                        
+                    </ol>
+                    <div class="carousel-inner">
+                        
+                        <div class="carousel-item slider-image item active">
+                            <div class="item-wrapper">
+                                <img class="d-block w-100" src="assets/images/5665-1718x528.jpg" alt="Mobirise Website Builder" data-slide-to="0" data-bs-slide-to="0">
+                                
+                            </div>
+                        </div><div class="carousel-item slider-image item">
+                            <div class="item-wrapper">
+                                <img class="d-block w-100" src="assets/images/novidades-site-1718x528.jpg" alt="Mobirise Website Builder" data-slide-to="1" data-bs-slide-to="1">
+                                
+                            </div>
+                        </div>
+                        
+                    </div>
+                    <a class="carousel-control carousel-control-prev" role="button" data-slide="prev" data-bs-slide="prev" href="#u9v4zTV9RD">
+                        <span class="mobi-mbri mobi-mbri-arrow-prev" aria-hidden="true"></span>
+                        <span class="sr-only visually-hidden">Previous</span>
+                    </a>
+                    <a class="carousel-control carousel-control-next" role="button" data-slide="next" data-bs-slide="next" href="#u9v4zTV9RD">
+                        <span class="mobi-mbri mobi-mbri-arrow-next" aria-hidden="true"></span>
+                        <span class="sr-only visually-hidden">Next</span>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section data-bs-version="5.1" class="footer3 cid-t4HZfVaaf4 mbr-parallax-background" once="footers" id="footer3-p">
+
+    
+
+    <div class="mbr-overlay" style="opacity: 0.7; background-color: rgb(35, 35, 35);"></div>
+
+    <div class="container">
+        <div class="media-container-row align-center mbr-white">
+            
+            <div class="row social-row">
+                <div class="social-list align-right pb-2">
+                    
+                    
+                    
+                    
+                    
+                    
+                <div class="soc-item">
+                        
+                            <a href="https://www.tiktok.com/@ptcomunidade" target="_blank"><span class="mbr-iconfont mbr-iconfont-social socicon-tiktok socicon" style="color: rgb(255, 255, 255); fill: rgb(255, 255, 255);"></span></a>
+                        
+                    </div><div class="soc-item">
+                        
+                            <a href="https://www.instagram.com/pt.comunidade/" target="_blank"><span class="mbr-iconfont mbr-iconfont-social socicon-instagram socicon" style="color: rgb(255, 255, 255); fill: rgb(255, 255, 255);"></span></a>
+                        
+                    </div></div>
+            </div>
+            <div class="row row-copirayt">
+                <p class="mbr-text mb-0 mbr-fonts-style mbr-white align-center display-7">Copyright&nbsp;© 2024 - <a href="https://www.instagram.com/pt.comunidade/" class="text-secondary" target="_blank">PT COMUNIDADE</a><em>&nbsp;</em>-&nbsp;Design by <strong>PAPI</strong>&nbsp;<strong>SILVA</strong></p>
+            </div>
+        </div>
+    </div>
+</section><section class="display-7" style="padding: 0;align-items: center;justify-content: center;flex-wrap: wrap;    align-content: center;display: flex;position: relative;height: 0rem;"><a href="" style="flex: 1 1;height: 0rem;position: absolute;width: 100%;z-index: 1;"><img alt="" style="height: 1rem;" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="></a><p style="margin: 0;text-align: center;" class="display-7">&#8204;</p><a style="z-index:1" href=""></a></section><script src="assets/bootstrap/js/bootstrap.bundle.min.js"></script>  <script src="assets/parallax/jarallax.js"></script>  <script src="assets/smoothscroll/smooth-scroll.js"></script>  <script src="assets/ytplayer/index.js"></script>  <script src="assets/dropdown/js/navbar-dropdown.js"></script>  <script src="assets/theme/js/script.js"></script>  
+  
+  
+ <div id="scrollToTop" class="scrollToTop mbr-arrow-up"><a style="text-align: center;"><i class="mbr-arrow-up-icon mbr-arrow-up-icon-cm cm-icon cm-icon-smallarrow-up"></i></a></div>
+  </body>
+</html>
